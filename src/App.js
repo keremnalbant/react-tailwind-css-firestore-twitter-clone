@@ -9,7 +9,7 @@ const App = () => {
     <Container>
       <Sidebar/>
       <Content/>
-      <Widgets/>
+    
     </Container>
   )
 }
