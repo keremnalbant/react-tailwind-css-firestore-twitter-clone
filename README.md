@@ -1,5 +1,7 @@
 # This clone was created by Kerem Nalbant
 
+This system was build with Firebase/Firestore, TailwindCSS and ReactJS.
+
 ![UI](https://user-images.githubusercontent.com/43813768/147953525-ddd466a1-45d8-4436-bd70-9402a2f3e112.png)
 
 # Getting Started with Create React App
